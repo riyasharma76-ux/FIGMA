@@ -41,3 +41,8 @@ Left Logo is clean, minimal, and versatile, ideal for corporate identity, print,
 Right Logo is modern, rich, and dynamic, best suited for showcasing product quality in a digital or high-end marketing context.
 Both reflect the core brand message: VANSHUL is not just oil—it’s the doctor of your engine—but they cater to slightly different visual preferences and marketing strategies.
 Together, they provide a comprehensive brand identity system with flexibility for different media and audience segments.
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/59fd5e77-f5f8-41b7-b0c6-1a79dfb3c868)
+
